@@ -1,0 +1,17 @@
+.my-bg{
+    background-color: rgba(0, 0, 0, 0.365);
+  }
+
+  .footer{
+    color:#fff;
+    text-align: center;
+  }
+
+  .my-icon{
+      margin-left:20px;
+      cursor: pointer;
+  }
+
+  hr.my-hr{
+    border-top:2.5px solid #ffffff;
+}

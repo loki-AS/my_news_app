@@ -1,0 +1,21 @@
+.nav {
+    height: 70px;
+    box-shadow: 0px 1px 8px #888888;
+    display: flex;
+    align-items: center;
+  }
+  
+  .menu{
+    margin-right: 20px;
+  }
+
+  .title{
+    font-weight:bold;
+  }
+
+  .my-tit{
+    margin-left: 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #1775b0;
+  }
